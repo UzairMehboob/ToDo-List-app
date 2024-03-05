@@ -41,8 +41,9 @@ button{
     color: #fff;
     font-size: 20px;
     text-align: left;
-    padding: 4px;
-    width: 280px;
+    padding: 8px;
+    width: 325px;
+
     left: 30px;
     border-radius: 6px;
    
@@ -50,6 +51,6 @@ button{
 .texts ul i{
 
     position: absolute;
-    right: 30px;
+    right: 20px;
     cursor: pointer;
 }
